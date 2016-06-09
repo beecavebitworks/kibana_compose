@@ -17,7 +17,7 @@ Ensure that the fields read as follows and click the 'Create' button.
  - Index name: logstash-*
  - Time field: @timestamp
 
-# Parsing and Custom Fields
+## Parsing and Custom Fields
 To get the most out of Kibana, you can configure data context for your situation:
  - At the source: If your application can log in JSON format, configuration further down the line gets easier.
  - Fluentd : Refer to [Fluentd docs](http://www.fluentd.org/guides/recipes/parse-syslog) on how to parse your data.
