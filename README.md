@@ -1,4 +1,4 @@
-# kibana_compose
+## Kibana/ElasticSearch/Fluentd container setup
 An easy, lightweight Kibana/ElasticSearch/Fluentd setup.  Perfect for a developer wanting to view their logs in Kibana. All 3 containers run on Alpine Linux.
 
 ```
