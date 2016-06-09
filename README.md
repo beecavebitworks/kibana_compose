@@ -21,7 +21,7 @@ Ensure that the fields read as follows and click the 'Create' button.
 To get the most out of Kibana, you can configure data context for your situation:
  - At the source: If your application can log in JSON format, configuration further down the line gets easier.
  - Fluentd : Refer to [Fluentd docs](http://www.fluentd.org/guides/recipes/parse-syslog) on how to parse your data.
- - Elastic : Refer to [Elastic docs](https://www.elastic.co/guide/en/elasticsearch/guide/current/_creating_an_index.html) for defining templates for your data schema.
+ - Elastic : Refer to [Elastic docs](https://www.elastic.co/guide/en/elasticsearch/guide/current/index-templates.html) for defining templates for your data schema.
  
 Image sizes:
 ```
